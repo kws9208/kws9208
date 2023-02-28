@@ -19,7 +19,7 @@ Aug. 2023 Bachelor of Science in Computer Science (GPA 4.03/4.5)
 
 ### RESEARCH EXPERIENCE  
 
-Namseoul University, 02/04/2023 - Present  
+Namseoul University, 02/04/2023 - 02/25/2023  
 Advisor: Dr. Kim Hyuntae  
 Project: Multiple object detection and tracking of dron images using YOLOv5 model  
 - Data labeling of car objects using Roboflow  
