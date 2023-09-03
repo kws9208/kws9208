@@ -2,18 +2,17 @@
 
 
 
-Undergraduate student  
-Department of Computer Science, Namseoul University  
-kws9208@nsu.ac.kr  
+Graduate student  
+School of Computing, Gachon University  
+kws9208@gachon.ac.kr  
 Phone: +82 10-2713-1573  
 
 ---  
 
 ### EDUCATION  
 
-Aug. 2023 Bachelor of Science in Computer Science (GPA 4.03/4.5)  
-(expected) Namseoul University, Cheonan  
-(7th semester early graduation)  
+Aug. 2023 Bachelor of Science in Computer Science (GPA 4.04/4.5)  
+Namseoul University, Cheonan
 
 ---  
 
